@@ -1,7 +1,5 @@
 # 🍰 Who is Fresh Cake 🍰
 
-![gif](/workspaces/freshcakewtf/Screentime.GIF)
-
 ## Brief
 Hello! 👋 I’m Gaetan, a creator and developer from New England. I blend technology and digital art to create cartoons and other content. With deep expertise in the Adobe Suite and a passion for coding, I explore new ways to tell stories and bring ideas to life.
 
