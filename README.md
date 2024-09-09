@@ -36,15 +36,6 @@ I Have over 2.3 Billion Views on Giphy
 
 ## 📚 Reading List
 
-### Favorite Graphic Novel
-- *Head Lopper*
-
-### Favorite Novel (Fiction)
-- *1984*
-
-### Favorite Novel (Non-Fiction)
-- *Zag*
-
 #### On My Nightstand
 
 - *LOTR: Fellowship of the Ring*
