@@ -16,7 +16,7 @@ I Have over 2.3 Billion Views on Giphy
 - **Photoshop:** Digital art and photo editing
 - **Illustrator:** Vector graphics and illustration
 - **Cinema 4D:** 3D modeling and animation
-- **Chat GPT:** integration into analytics and debugging code
+- **Chat GPT:** API Integration into workflow for data analysis, media managment/publication, code debugging, and generating VO with Eleven Labs.
 
 ## 🌱 Currently Learning
 - Godot
@@ -24,7 +24,7 @@ I Have over 2.3 Billion Views on Giphy
 - Python
 
 ## 🕹️ Games I'm Playing
-- chivalry II
+- Chivalry II
 - Freedom Finger
 
 ## 📺 Cartoons I'm Watching
@@ -32,25 +32,15 @@ I Have over 2.3 Billion Views on Giphy
 - Rick and Morty
 - Futurama
 
-## 📚 Reading List
-
-#### On My Nightstand
-
+## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
 - *Chew* (2nd Read Through)
-- Work
-
-#### What I Want to Read Next
-
-- *Chokepoint Capitalism*
-- *Raiders* (3rd Read Through)
-- *Shaolin Cowboy: Shemp Buffet*
+- *Work*
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
 - Outside TV
 - WWE
-- MTV
 
 ## 📫 How to Reach Me
 
