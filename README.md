@@ -26,8 +26,7 @@ I Have over 2.3 Billion Views on Giphy
 - Python
 
 ## 🕹️ Games I'm Playing
-- Chivalry II
-- Freedom Finger
+- Space Marine II
 
 ## 📺 Cartoons I'm Watching
 - Craig of the Creek
