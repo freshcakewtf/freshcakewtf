@@ -36,7 +36,7 @@ I Have over 2.3 Billion Views on Giphy
 
 ## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
-- *Chew* (2nd Read Through)
+- *Everything Sucks*
 - *Work*
 
 ## 📁 Where You Can Find My Work
