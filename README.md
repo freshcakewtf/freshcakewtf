@@ -14,11 +14,11 @@ I Have over 2.3 Billion Views on Giphy
 
 - **After Effects:** Advanced motion graphics and plugin development
 - **Adobe Fresco:** 2D animation and illustration
-- **Character Animator:** Auto-animating characters and creating repeatable formats
+- **Character Animator:** Rigging, animating, and creating repeatable formats for cartoons
 - **Photoshop:** Digital art and photo editing
 - **Illustrator:** Vector graphics and illustration
 - **Cinema 4D:** 3D modeling and animation
-- **Chat GPT:** API Integration into workflow for data analysis, media managment/publication, code debugging, and generating VO with Eleven Labs.
+- **Chat GPT:** I just mess with it a lot, integrating it into a bunch of different junk I do
 
 ## 🌱 Currently Learning
 - Godot
