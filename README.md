@@ -3,12 +3,12 @@
 ![image](Screentime.GIF)
 
 ## Brief
-Hello! 👋 I’m Gaetan, a creator and developer from New England. I blend technology and digital art to create cartoons and other content. With deep expertise in the Adobe Suite and a passion for coding, I explore new ways to tell stories and bring ideas to life.
+Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and illustration to create cartoons and other content online. With deep expertise in the Adobe Suite and a passion for coding, I explore new ways to tell stories and bring ideas to life.
 
-I'm excited about integrating generative AI into my workflow, enhancing creativity and efficiency. AI helps me automate tasks and generate unique ideas, pushing the boundaries of digital art.
-
-## 🤩 Fun FAQ
-I Have over 2.3 Billion Views on Giphy 
+## 🤩 Fun FAQs
+- I Have over 2.3 Billion Views on Giphy
+- Frequently try to integrating generative AI into my workflow
+- Want to be good enough to enter and exit Vim
 
 ## 💻 Skills
 
@@ -22,8 +22,15 @@ I Have over 2.3 Billion Views on Giphy
 
 ## 🌱 Currently Learning
 - Godot
-- Game Development
 - Python
+
+## 🎨 Recently Created
+
+- [Doodlebob](https://www.youtube.com/playlist?list=PLX34qDh_nH5G5kOzGykl-cDy_gixcQ23J)
+
+- [Praise The Gourd Gif](https://media.giphy.com/media/TivJ7D5P2OXJxGqhmD/giphy.gif)
+
+- [Fart House](https://fresh-cake.itch.io/fart-house)
 
 ## 🕹️ Games I'm Playing
 - Space Marine II
@@ -36,11 +43,10 @@ I Have over 2.3 Billion Views on Giphy
 ## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
 - *Everything Sucks*
-- *Work*
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
-- Outside TV
+- Giphy
 - WWE
 
 ## 📫 How to Reach Me
