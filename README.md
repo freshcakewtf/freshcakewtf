@@ -38,11 +38,10 @@ Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and il
 ## 📺 Cartoons I'm Watching
 - Craig of the Creek
 - Rick and Morty
-- Futurama
 
 ## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
-- *Everything Sucks*
+- *Cruel Universe*
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
