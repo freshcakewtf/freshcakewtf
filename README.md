@@ -3,7 +3,7 @@
 ![image](Screentime.GIF)
 
 ## Brief
-Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and illustration to create cartoons and other content online. With deep expertise in the Adobe Suite and a passion for coding, I explore new ways to tell stories and bring ideas to life.
+Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and illustration to create cartoons and other content online. With a deep expertise in the Adobe Suite and a passion for all things computer, I explore new ways to tell stories and bring ideas to life.
 
 ## 🤩 Fun FAQs
 - I Have over 2.3 Billion Views on Giphy
@@ -28,7 +28,7 @@ Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and il
 
 - [Doodlebob](https://www.youtube.com/playlist?list=PLX34qDh_nH5G5kOzGykl-cDy_gixcQ23J)
 
-- [Praise The Gourd Gif](https://media.giphy.com/media/TivJ7D5P2OXJxGqhmD/giphy.gif)
+- [Fitness](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lrNjJlcmxnNm9hYTAyNDduZnpvb3FucTF1czBzMnl3NjZjMjN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0larHVbOlpYllLajCz/giphy.gif)
 
 - [Fart House](https://fresh-cake.itch.io/fart-house)
 
