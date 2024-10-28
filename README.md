@@ -33,15 +33,14 @@ Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and il
 - [Fart House](https://fresh-cake.itch.io/fart-house)
 
 ## 🕹️ Games I'm Playing
-- What The Car
+- IDK, send me suggestions
 
 ## 📺 Cartoons I'm Watching
 - Craig of the Creek
-- Rick and Morty
+- Futurama
 
 ## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
-- *Cruel Universe*
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
