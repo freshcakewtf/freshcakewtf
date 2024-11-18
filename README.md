@@ -28,16 +28,16 @@ Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and il
 
 - [Doodlebob](https://www.youtube.com/playlist?list=PLX34qDh_nH5G5kOzGykl-cDy_gixcQ23J)
 
-- [Fitness](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lrNjJlcmxnNm9hYTAyNDduZnpvb3FucTF1czBzMnl3NjZjMjN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0larHVbOlpYllLajCz/giphy.gif)
+- [Skiway](https://giphy.com/freshcake/dartmouth-skiway)
 
 - [Fart House](https://fresh-cake.itch.io/fart-house)
 
 ## 🕹️ Games I'm Playing
-- IDK, send me suggestions
+- Super Mario Bros. Wonder
 
 ## 📺 Cartoons I'm Watching
-- Craig of the Creek
-- Futurama
+- Tales of the Teenage Mutant Ninja Turtles
+- Dragon Ball Z Kai
 
 ## 📚 What I'm reading
 - *LOTR: Fellowship of the Ring*
