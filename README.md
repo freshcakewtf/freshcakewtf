@@ -3,11 +3,7 @@
 ![image](Screentime.GIF)
 
 ## Brief
-Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and illustration to create cartoons and other content online. With a deep expertise in the Adobe Suite and a passion for all things computer, I explore new ways to tell stories and bring ideas to life.
-
-## 🤩 Fun FAQs
-- I Have over 2.4 Billion Views on Giphy
-- Frequently try to integrating generative AI into my workflow
+I’m a digital artist/animator, creative technologist, and wanna-be game dev with 15 years in the media industry. I blend pixels, code, and chaotic good energy to bring ideas to life. Whether I’m animating something ridiculous, building tools in search of better loot, or making a game just because games are freakin’ awesome — I’m always chasing the next creative quest.
 
 ## 💻 Skills
 
@@ -20,24 +16,24 @@ Hello! 👋 I’m Gaetan, a Digital Artist from New England. I blend tech and il
 - **Chat GPT:** I just mess with it a lot, integrating it into a bunch of different junk I do.
 
 ## 🌱 Currently Learning
-- Brushing up on HTML
-- Steganography 
+- Godot
+- Python
+- AT Protocol
 
 ## 🎨 Recently Created
 
-- [Doodlebob](https://www.youtube.com/playlist?list=PLX34qDh_nH5G5kOzGykl-cDy_gixcQ23J)
-
-- [Skiway](https://giphy.com/freshcake/dartmouth-skiway)
+- [Updted Website](https://www.freshcake.wtf)
 
 ## 🕹️ Games I'm Playing
-- Super Mario Bros. Wonder
+- Minecraft Dungeons
+- Doom Dark Ages
 
 ## 📺 Cartoons I'm Watching
-- Regular Show
 - Rocko's Modern Life
+- Dicktown
 
 ## 📚 What I'm reading
-- *I hHate Fairyland vol 6*
+- null (need a new book)
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
