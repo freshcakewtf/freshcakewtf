@@ -17,7 +17,6 @@ I’m a digital artist/animator, creative technologist, and wanna-be game dev wi
 
 ## 🌱 Currently Learning
 - Godot
-- Python
 - AT Protocol
 
 ## 🎨 Recently Created
@@ -25,18 +24,18 @@ I’m a digital artist/animator, creative technologist, and wanna-be game dev wi
 - [Updted Website](https://www.freshcake.wtf)
 
 ## 🕹️ Games I'm Playing
-- Minecraft Dungeons
-- Doom Dark Ages
+- Space Marine II
+- Minecraft
 
 ## 📺 Cartoons I'm Watching
-- Rocko's Modern Life
-- Dicktown
+- Over the Garden Wall
 
 ## 📚 What I'm reading
-- null (need a new book)
+- Jaws
 
 ## 📁 Where You Can Find My Work
 - Nickelodeon
+- YouTube
 - Giphy
 - WWE
 
