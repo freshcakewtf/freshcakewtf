@@ -33,3 +33,5 @@ Currently: chasing the gap between artistic voice and machine scale.
 - 🌐 [freshcake.wtf](https://freshcake.wtf)
 - 🎞️ [GIPHY](https://giphy.com/freshcake)
 - 💼 [LinkedIn](https://li.freshcake.wtf)
+
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2B8205AJZ)
